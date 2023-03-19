@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itsazizsaidi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ajZF-AN-cWynq3zzSjmj6ZMF7CUuCSeK/view?usp=share_link](https://drive.google.com/file/d/1ajZF-AN-cWynq3zzSjmj6ZMF7CUuCSeK/view?usp=share_link)
+- 📄 Know about my experiences [http://codingcrab.surge.sh/](http://codingcrab.surge.sh/)
 
 - ⚡ Fun fact **Crab is not my favorite animal 🙂**
 
