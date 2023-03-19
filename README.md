@@ -31,7 +31,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodingCrab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodingCrab" /></a></p><br><br>
 
-##Logo Preview (Designed By me 😁):
+<br>
+<h3 align="left">Logo Preview (Designed By me 😁)</h3>
+<br>
  
 ![Logo (2)](https://user-images.githubusercontent.com/121975087/226177202-9b661952-e046-437e-a842-0170cec1515e.png)
 
