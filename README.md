@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/121975087/226177547-ece2e786-742d-46c0-94d9-994b37fce936.png)
 
 <h1 align="center">Hi 👋, I'm Coding Crab</h1>
-<h3 align="center">I'm a Creative Director and Designer from Tunis, Tunisia. I specialize in web development and print media. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I've created web designs for many famous brand companies that you can refer to in my portfolio.<h3>
+<h3 align="center">My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I've created web designs for many famous brand companies that you can refer to in my portfolio.<h3>
 
 - 🔭 I’m currently working on [Califronia Gym Time Management](https://github.com/Coding-Crab/CaliforniaGym-Time-Management)
 
