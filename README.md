@@ -1,3 +1,6 @@
+![Logo (2)](https://user-images.githubusercontent.com/121975087/226177202-9b661952-e046-437e-a842-0170cec1515e.png)
+
+
 <h1 align="center">Hi 👋, I'm Coding Crab</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
@@ -28,4 +31,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodingCrab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodingCrab" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-crab&show_icons=true&locale=en" alt="coding-crab" /></p>
