@@ -1,4 +1,3 @@
-![banner](https://user-images.githubusercontent.com/121975087/226177547-ece2e786-742d-46c0-94d9-994b37fce936.png)
 
 <h1 align="center">Hi 👋, I'm Coding Crab</h1>
 <h3 align="center">My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.<h3>
@@ -31,10 +30,5 @@
 <p><a href="https://www.buymeacoffee.com/CodingCrab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodingCrab" /></a></p><br><br>
 <br>
 
-<br>
-<h3 align="left">Logo Preview (Designed By me 😁):</h3>
-<br>
- 
-![Logo (2)](https://user-images.githubusercontent.com/121975087/226177202-9b661952-e046-437e-a842-0170cec1515e.png)
 
 
